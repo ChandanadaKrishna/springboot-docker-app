@@ -49,6 +49,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>springboot-docker-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
